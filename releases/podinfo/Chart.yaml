@@ -1,4 +1,0 @@
-apiVersion: v1
-description: This is a test chart
-name: test-chart
-version: 1.0.0
