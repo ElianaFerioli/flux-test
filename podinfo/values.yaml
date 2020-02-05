@@ -1,0 +1,2 @@
+deployment:
+  image: docker.rochedc.accentureanalytics.com/dockadmin/ippsync
