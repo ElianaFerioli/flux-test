@@ -1,0 +1,2 @@
+deployment:
+  image: stefanprodan/podinfo:3.1.5

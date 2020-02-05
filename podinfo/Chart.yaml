@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Test flux
+name: podinfo
+version: 1.0.0
